@@ -1,0 +1,6 @@
+name: BlacklistFromWorlds
+version: '${project.version}'
+main: com.alttd.blacklistfromworlds.BlacklistFromWorlds
+api-version: 1.18
+authors: [ Teriuihi ]
+description: Plugin to blacklist players from worlds
